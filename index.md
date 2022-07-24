@@ -5,7 +5,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>J0rd1S3rr4n0</title>
-    <>
+    <style>
+        *{
+            margin:0;
+            padding:0;
+        }
+        nav{
+            background-color:black;
+            color:white;
+            padding: 10px;
+            border-radius:30px;
+        }
+    </style>
 </head>
 <body>
     <nav>
