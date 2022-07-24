@@ -16,12 +16,18 @@
             padding: 10px;
             border-radius:30px;
         }
+        nav>ul{
+            position:sticky;
+        }
+        nav>ul>li{
+            display:inline-block;
+        }
     </style>
 </head>
 <body>
     <nav>
         <ul>
-            <li>ASD</li>
+            <li><a>HOME</a></li>
             <li>ASD</li>
             <li>ASD</li>
             <li>ASD</li>
